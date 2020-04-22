@@ -1,2 +1,9 @@
+.idea/
 node_modules
-dist
+build/
+temp/
+dist/
+
+
+tmp/*
+!tmp/.gitkeep
